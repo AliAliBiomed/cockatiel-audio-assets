@@ -1,9 +1,128 @@
 [
   {
-    "id": "Cockatiel_01",
-    "title": "Easy Cockatiel Songs",
-    "url": "https://github.com/AliAliBiomed/cockatiel-audio-assets/raw/refs/heads/main/audio/Easy%20cocktail%20sounds.mp3",
-    "durationSeconds": 251,
-    "description": "Classic playful whistle tune for young cockatiels"
+    "id": "avian_whistle_starter",
+    "title": "Avian Whistle Starter",
+    "url": "https://github.com/AliAliBiomed/cockatiel-audio-assets/raw/refs/heads/main/avian_whistle_starter.mp3",
+    "durationSeconds": 239,
+    "description": "Essential starter whistle training track for young cockatiels"
+  },
+  {
+    "id": "baby_shark",
+    "title": "Baby Shark Theme",
+    "url": "https://github.com/AliAliBiomed/cockatiel-audio-assets/raw/refs/heads/main/Baby_shark.wav",
+    "durationSeconds": 9,
+    "description": "Catchy short rhythm tune for quick repetition"
+  },
+  {
+    "id": "beginner_whistle",
+    "title": "Beginner Whistle",
+    "url": "https://github.com/AliAliBiomed/cockatiel-audio-assets/raw/refs/heads/main/Beginner_whistle.mp3",
+    "durationSeconds": 481,
+    "description": "Slow-paced whistle melody designed for beginner birds"
+  },
+  {
+    "id": "beginner_whistle_chimes",
+    "title": "Beginner Whistle Chimes",
+    "url": "https://github.com/AliAliBiomed/cockatiel-audio-assets/raw/refs/heads/main/Beginner_Whistle_Chimes.mp3",
+    "durationSeconds": 455,
+    "description": "Playful repeating chime sequence for daily training sessions"
+  },
+  {
+    "id": "bella_ciao",
+    "title": "Bella Ciao Theme",
+    "url": "https://github.com/AliAliBiomed/cockatiel-audio-assets/raw/refs/heads/main/Bella_ciao.mp3",
+    "durationSeconds": 21,
+    "description": "Famous upbeat Italian folk rhythm whistle"
+  },
+  {
+    "id": "charming_chirps_1",
+    "title": "Charming Chirps Part 1",
+    "url": "https://github.com/AliAliBiomed/cockatiel-audio-assets/raw/refs/heads/main/charming_chirps_1.mp3",
+    "durationSeconds": 296,
+    "description": "Soft and cheerful vocal call sequence for parrot bonding"
+  },
+  {
+    "id": "charming_chirps_2",
+    "title": "Charming Chirps Part 2",
+    "url": "https://github.com/AliAliBiomed/cockatiel-audio-assets/raw/refs/heads/main/charming_chirps_2.mp3",
+    "durationSeconds": 306,
+    "description": "Melodic call and response chirping session"
+  },
+  {
+    "id": "charming_chirps_3",
+    "title": "Charming Chirps Part 3",
+    "url": "https://github.com/AliAliBiomed/cockatiel-audio-assets/raw/refs/heads/main/charming_chirps_3.mp3",
+    "durationSeconds": 292,
+    "description": "Gentle rhythmic chirping for relaxing whistle routines"
+  },
+  {
+    "id": "charming_chirps_4",
+    "title": "Charming Chirps Part 4",
+    "url": "https://github.com/AliAliBiomed/cockatiel-audio-assets/raw/refs/heads/main/charming_chirps_4.mp3",
+    "durationSeconds": 303,
+    "description": "Interactive chirp sequence encouraging cockatiel vocal response"
+  },
+  {
+    "id": "charming_chirps_5",
+    "title": "Charming Chirps Part 5",
+    "url": "https://github.com/AliAliBiomed/cockatiel-audio-assets/raw/refs/heads/main/charming_chirps_5.mp3",
+    "durationSeconds": 284,
+    "description": "Continuous high-pitch whistle and chirp practice"
+  },
+  {
+    "id": "charming_chirps_6",
+    "title": "Charming Chirps Part 6",
+    "url": "https://github.com/AliAliBiomed/cockatiel-audio-assets/raw/refs/heads/main/charming_chirps_6.mp3",
+    "durationSeconds": 315,
+    "description": "Varied chirp notes to expand your cockatiel's repertoire"
+  },
+  {
+    "id": "cockatiel_morning_boost",
+    "title": "Cockatiel Morning Boost",
+    "url": "https://github.com/AliAliBiomed/cockatiel-audio-assets/raw/refs/heads/main/cockatiel_morning_boost.mp3",
+    "durationSeconds": 350,
+    "description": "High-energy morning whistle stimulation track"
+  },
+  {
+    "id": "cookie",
+    "title": "The Cookie Song (Kookee Kookee)",
+    "url": "https://github.com/AliAliBiomed/cockatiel-audio-assets/raw/refs/heads/main/Cookie.mp3",
+    "durationSeconds": 32,
+    "description": "Famous viral cockatiel whistle melody"
+  },
+  {
+    "id": "if_you_are_happy",
+    "title": "If You're Happy and You Know It",
+    "url": "https://github.com/AliAliBiomed/cockatiel-audio-assets/raw/refs/heads/main/if_you_are_happy.mp3",
+    "durationSeconds": 37,
+    "description": "Classic nursery whistle song easy for birds to memorize"
+  },
+  {
+    "id": "jingle_bells",
+    "title": "Jingle Bells Whistle",
+    "url": "https://github.com/AliAliBiomed/cockatiel-audio-assets/raw/refs/heads/main/jingle_bells.mp3",
+    "durationSeconds": 95,
+    "description": "Cheerful holiday rhythm tune"
+  },
+  {
+    "id": "mickey_mouse",
+    "title": "Mickey Mouse Club Theme",
+    "url": "https://github.com/AliAliBiomed/cockatiel-audio-assets/raw/refs/heads/main/mickey_mouse.mp3",
+    "durationSeconds": 66,
+    "description": "Classic upbeat Disney theme whistle"
+  },
+  {
+    "id": "pink_panther",
+    "title": "The Pink Panther Theme",
+    "url": "https://github.com/AliAliBiomed/cockatiel-audio-assets/raw/refs/heads/main/pink_panther.mp3",
+    "durationSeconds": 13,
+    "description": "Iconic staccato theme with distinct pitch changes"
+  },
+  {
+    "id": "september",
+    "title": "September Whistle Melody",
+    "url": "https://github.com/AliAliBiomed/cockatiel-audio-assets/raw/refs/heads/main/september.mp3",
+    "durationSeconds": 23,
+    "description": "Upbeat rhythm whistle for training recall"
   }
 ]
